@@ -1,0 +1,5 @@
+{
+  "name": "Settlement Performance Dashboard",
+  "description": "A professional dashboard to track settlement values by status, set monthly targets, and filter by time periods.",
+  "requestFramePermissions": []
+}
